@@ -15,9 +15,3 @@ The dashboard focuses on clear data visualization and interactive exploration of
 - Charting library (e.g., Chart.js / D3.js if used)
 - Responsive CSS for flexible layouts
 
-## Getting Started
-Clone the repository and install dependencies:
-```bash
-git clone https://github.com/your-username/people-analytics-dashboard.git
-cd people-analytics-dashboard
-npm install
